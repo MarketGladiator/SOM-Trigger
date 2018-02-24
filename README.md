@@ -10,8 +10,7 @@ A script designed to check CoinMarketCap for extreme market conditions and put P
 
 ## API
 
-Uses Coindesk API to determine the current BTC price in Fiat (Default: USD)
-[http://www.coindesk.com/api/](http://www.coindesk.com/api/)
+Uses [Coindesk API](http://www.coindesk.com/api/) to determine the current BTC price in Fiat (Default: USD)
 
 
 ## DISCLAIMER
