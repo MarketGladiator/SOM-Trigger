@@ -1,6 +1,6 @@
 # INFO
 #
-# Version: 1.0
+# Version: 1.0.1
 # Author: James Black (Discord @PsiliPharm)
 # Credits: Based of SOM-Trigger_v1.3.ps1 Shell Script by Noel Stephenson (Discord @NoelS)
 # Source Link: https://onedrive.live.com/?authkey=%21ANZv45qsSyq83p8&cid=D3BBC7F676E8898A&id=D3BBC7F676E8898A%21172135&parId=D3BBC7F676E8898A%21172134&o=OneUp
@@ -42,6 +42,7 @@
 #   - Initial Version based off of SOM-Trigger_v1.3.ps1
 #   - Added Support to Configure the Base Coin a.k.a. Trading Market
 #   - Added Support to Configure the Fiat Currency
+#   - Fixed Issue with PM2 not logging output correctly
 #
 #
 # DONATE

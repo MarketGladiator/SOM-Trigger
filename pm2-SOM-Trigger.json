@@ -1,10 +1,11 @@
 {
   "apps": [
     {
-      "name": "SOM-Trigger",
+      "name": "som-trigger",
       "cwd": ".",
       "script": "python",
       "args": [
+        "-u",
         "SOM-Trigger.py"
       ],
       "node_args": [],
